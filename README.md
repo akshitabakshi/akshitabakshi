@@ -3,4 +3,6 @@
 
 🌱 I’m currently working on a linear regression project and developing my machine learning skills by reading the book "Mathematics for Machine Learning" by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.  
 
+✨ Apart from working on end to end projects I also love volunteering and I am currently the Attendee Relations Executive at DeltaHacks, a club that hosts hackathons at McMaster! 
+
 📫 I love to meet new people so please dont hesitate to reach out to me on my gmail: akkuvilas@gmail.com!
