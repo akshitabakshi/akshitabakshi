@@ -3,7 +3,7 @@
 
 ✅ I recently completed a research assistant internship under Dr. Alavi at McMaster University where I worked with Raspberry Pi and vibration sensors
 
-🌱 I’m currently completing a PyTorch course and developing on my Statistics knowledge.  
+🌱 I’m currently developing on my Statistics knowledge and working on Machine Learning projects.  
 
 ✨ Apart from working on end to end projects I enjoy volunteering and I am currently the Attendee Relations Executive at DeltaHacks, a club that hosts hackathons at McMaster!
 
