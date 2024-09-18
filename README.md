@@ -1,5 +1,5 @@
 ### 👋 Hi there! I'm Akshita, a third year computer science student at McMaster University. 
-🔭 I’m deeply interested in Data Science and Machine Learning and I love working on end to end projects!
+🔭 I’m deeply interested in Data Analysis and I love working on end to end projects!
 
 ✅ I recently completed a research assistant internship under Dr. Alavi at McMaster University where I worked with Raspberry Pi and vibration sensors
 
